@@ -1,19 +1,13 @@
-### Hi there 👋
+### Hi, let's make friends. 👋
 
-<!--
-**Codexiaoyi/Codexiaoyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##### I like Go and its related technology stack. Maybe I am a full stack engineer. I prefer back-end related technologies and architecture technologies, etc.
 
-Here are some ideas to get you started:
+- 🍎 I'm working with **Go** and **WPF(C#)**.
+- 🌱 I'm currently learning Go and Vue.
+- 😄 I'm looking to collaborate on Go.
+- 💬 Ask me about **Go** or **Back-end** related technology.
+- 📫 How to reach me: linaaayi@foxmail.com or 874183200@qq.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Codexiaoyi&show_icons=true&theme=dark&count_private=true)
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Codexiaoyi&theme=dark&layout=compact)
