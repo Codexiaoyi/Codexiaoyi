@@ -11,3 +11,4 @@
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Codexiaoyi&show_icons=true&theme=dark&count_private=true)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Codexiaoyi&theme=dark&layout=compact&exclude_repo=Codexiaoyi.github.io)
 
+![Snake animation](https://github.com/Codexiaoyi/Codexiaoyi/blob/output/github-contribution-grid-snake.svg)
